@@ -17,6 +17,16 @@ port = 0
 def usage():
     print "Net Tool"
     print
+    print "            _            _   "
+    print " _ __   ___| |_ ___ __ _| |_ "
+    print "| '_ \ / _ \ __/ __/ _` | __|"
+    print "| | | |  __/ || (_| (_| | |_ "
+    print "|_| |_|\___|\__\___\__,_|\__|"
+    print
+    print "Author: R00T-H4WK"
+    print "country: indonesian"
+    print "team: Muslim Cyber Army (MCA)"
+    print
     print "Usage: %s -t target_host -P target_port" % sys.argv[0]
     print "-l --listen                  - listen on [host]:[port] for" \
           "                               incoming connections"
