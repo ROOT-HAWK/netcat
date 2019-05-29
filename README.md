@@ -7,9 +7,9 @@ netcat
 * python2
 
 # installation
- * https://github.com/R00T-H4WK/next
+ * https://github.com/R00T-H4WK/netcat
  * chmod +x netcat2.py
- * python2 netcat.py
+ * python2 netcat2.py
 
 # Use assistance
 * python2 netcat2.py -h
